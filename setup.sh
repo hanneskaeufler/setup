@@ -29,6 +29,8 @@ brew install cmake
 cd ~/.vim/bundle/YouCompleteMe
 ./install.sh
 
+brew install redis
+
 #
 # .dotfiles
 #
