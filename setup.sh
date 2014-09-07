@@ -18,7 +18,6 @@ brew cask install dropbox
 # install apps for dev
 brew install macvim --override-system-vim
 brew cask install virtualbox
-brew cask install vagrant
 brew cask install google-chrome
 brew cask install launchrocket
 
@@ -31,6 +30,8 @@ cd ~/.vim/bundle/YouCompleteMe
 ./install.sh
 
 brew install redis
+brew install selecta
+brew install node
 
 #
 # .dotfiles
