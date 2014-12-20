@@ -34,6 +34,7 @@ cd ~/.vim/bundle/YouCompleteMe
 
 brew install tmux
 brew install reattach-to-user-namespace
+brew install the_silver_searcher
 
 brew install redis
 brew install selecta
